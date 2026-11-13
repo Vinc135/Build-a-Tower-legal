@@ -11,10 +11,11 @@ Last updated: November 13, 2026
 
 Build a Tower ("the bot", "the service") is operated by:
 
-[YOUR FULL NAME OR BUSINESS NAME]
-[STREET AND NUMBER]
-[POSTAL CODE AND CITY], Germany
-Email: [YOUR CONTACT EMAIL]
+Vincent Lorenz
+Am Exer 43
+38302 Wolfenbüttel, Germany
+Email: vulpobot@gmail.com
+Support server: <https://discord.gg/NrK3KZ9DPM>
 
 ("we", "us").
 
@@ -92,7 +93,7 @@ How we handle personal data is described in the [Privacy Policy](privacy).
 ## 10. Ending use
 
 You can stop using the bot at any time. A server administrator can remove the bot from
-a server at any time. To have your data deleted, see the Privacy Policy.
+a server at any time. To have your data deleted, see the [Privacy Policy](privacy).
 
 ## 11. Changes to these terms
 
@@ -111,4 +112,4 @@ consumer arbitration board.
 
 ## 13. Contact
 
-Questions about these terms: [YOUR CONTACT EMAIL]
+Questions about these terms: vulpobot@gmail.com or our support server <https://discord.gg/NrK3KZ9DPM>

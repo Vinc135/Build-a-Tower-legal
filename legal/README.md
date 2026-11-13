@@ -1,7 +1,6 @@
-# Legal pages
+# Build a Tower – legal pages
 
-Sources of the public Terms of Service and Privacy Policy. They are published with
-GitHub Pages from a separate **public** repository (this code repository is private).
+Terms of Service and Privacy Policy of the Build a Tower Discord bot, published with GitHub Pages.
 
-Before publishing, replace every `[PLACEHOLDER IN CAPITALS]` in `index.md`, `terms.md`
-and `privacy.md`. Do not copy this README into the public repository.
+- [Terms of Service](terms.md)
+- [Privacy Policy](privacy.md)

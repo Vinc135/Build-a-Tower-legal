@@ -12,10 +12,11 @@ have. It follows the EU General Data Protection Regulation (GDPR).
 
 ## 1. Controller
 
-[YOUR FULL NAME OR BUSINESS NAME]
-[STREET AND NUMBER]
-[POSTAL CODE AND CITY], Germany
-Email: [YOUR CONTACT EMAIL]
+Vincent Lorenz
+Am Exer 43
+38302 Wolfenbüttel, Germany
+Email: vulpobot@gmail.com
+Support server: <https://discord.gg/NrK3KZ9DPM>
 
 ## 2. Data we process
 
@@ -102,13 +103,15 @@ Under the GDPR you have the right to:
 - **data portability** (Art. 20);
 - **object** to processing based on legitimate interests (Art. 21).
 
-To use any of these rights, write to [YOUR CONTACT EMAIL] and include your Discord user
+To use any of these rights (access, deletion and so on), open a request on our support
+server <https://discord.gg/NrK3KZ9DPM> or write to vulpobot@gmail.com. Include your Discord user
 ID so we can find your data. We may ask you to confirm that the account is yours, for
 example by sending a message from it.
 
 You also have the right to lodge a complaint with a data protection supervisory
 authority, for example the one responsible for your place of residence or for us:
-[NAME OF YOUR STATE'S DATA PROTECTION AUTHORITY].
+Der Landesbeauftragte für den Datenschutz Niedersachsen (State Commissioner for Data
+Protection of Lower Saxony), Hannover, <https://www.lfd.niedersachsen.de>.
 
 ## 7. Security
 
@@ -128,4 +131,4 @@ at this address, with the date of the last update at the top.
 
 ## 10. Contact
 
-Questions about privacy: [YOUR CONTACT EMAIL]
+Questions about privacy: vulpobot@gmail.com or our support server <https://discord.gg/NrK3KZ9DPM>
